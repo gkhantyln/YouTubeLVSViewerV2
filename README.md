@@ -1,5 +1,7 @@
 # YouTube Proxy Live Stream, Video and Shorts Viewer V2
 
+💸 Note: Our project is a paid service. If you are interested in purchasing, please contact us at tylngkhn@gmail.com for more details. 📧
+
 ## English : 
 
 This project aims to develop a bot that automates live streaming and video watching on YouTube using proxies.
